@@ -61,6 +61,7 @@
 * [6.20 筆記法實例 \(fuzzy.py\)](di-liu-zhang-shen-du-zou-xia-zhi-shang/6.20-fa-li-fuzzy.py.md)
 * [6.21 筆記法實例 \(pe.py\)](di-liu-zhang-shen-du-zou-xia-zhi-shang/6.21-fa-li-pe.py.md)
 * [6.6 樂高積木定義法](di-liu-zhang-shen-du-zou-xia-zhi-shang/6.6-gao-mu-ding-fa.md)
+* [6.23 積木定義實例](di-liu-zhang-shen-du-zou-xia-zhi-shang/6.23-mu-ding-li.md)
 
 ## 第七章：廣度走訪 \(上至下\)
 
