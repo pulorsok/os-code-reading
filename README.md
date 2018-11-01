@@ -1,4 +1,4 @@
-# 作者序一
+# 作者序一：陳坤裕
 
 獨自坐在電腦螢幕前，滿腔熱血想要探索開源專案原始碼，企圖了解這些原始碼是如何組合、相互作用，進而成了現在你我最常用的工具。然而這滿腔熱血，卻在打開程式碼後降到冰點。因為不知如何切入，且顯現在眼前的程式碼與專案架構是那麼複雜與龐大。說是天書似乎也不誇張。
 
@@ -11,17 +11,13 @@
 **陳坤裕 寫於高雄路竹**
 
 備註：  
-此心得已於 PyConTW 2017 與 COSCUP 2018 中分享  
-  
-PyConTW 2017   
-         介紹頁面：[https://bit.ly/2Q43FM4](https://bit.ly/2Q43FM4)  
-         演講影片：[https://bit.ly/2PuCtce](https://bit.ly/2PuCtce)  
-         投影片：    [https://bit.ly/2Q39Xvp](http://bit.ly/2Q39Xvp)  
-COSCUP   2018   
-         介紹頁面：[https://bit.ly/2Oaq60h](https://bit.ly/2Oaq60h)  
-         投影片：    [https://bit.ly/2SrDhgO](http://bit.ly/2SrDhgO)  
+此心得已於 PyConTW 2017 與 COSCUP 2018 中分享
 
-
-  
-
+PyConTW 2017  
+介紹頁面：[https://bit.ly/2Q43FM4](https://bit.ly/2Q43FM4)  
+演講影片：[https://bit.ly/2PuCtce](https://bit.ly/2PuCtce)  
+投影片： [https://bit.ly/2Q39Xvp](http://bit.ly/2Q39Xvp)  
+COSCUP 2018  
+介紹頁面：[https://bit.ly/2Oaq60h](https://bit.ly/2Oaq60h)  
+投影片： [https://bit.ly/2SrDhgO](http://bit.ly/2SrDhgO)
 
