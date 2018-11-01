@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言](README.md)
+* [作者序一](README.md)
 
 ## 第一章：為何讀？哪裡找？怎麼挑？
 
